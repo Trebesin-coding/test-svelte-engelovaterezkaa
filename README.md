@@ -31,4 +31,10 @@ CSS není potřeba upravovat
 
 Nápověda pro syntax props: `let { ukazka } = $props()`
 
-### Počet bodu: ?/100
+### Počet bodu: 70/100
+
+- proč je click number ve složených závorkách? složené závorky rozebírají dictionary, to přeci nechcete
+- špatný syntax u posílání props
+- proč jsou dvojité závorky u ifka s button.innertext
+- proč je tam button.innerText?!
+- jedno rovnítko přiřazuje k proměnné hodnotu, 3 porovnávají
